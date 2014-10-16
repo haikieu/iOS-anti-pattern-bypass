@@ -11,7 +11,7 @@ iOS anti design pattern, bypass inheritance
 
 ------------------------------
 
-###bypass inheritance idea
+###Sketchup
 
 [logo]: https://raw.githubusercontent.com/haikieu/iOS-anti-pattern-bypass/master/ios-anti-pattern-bypass.jpg
 ![alt iOS anti design pattern bypass inheritance](https://raw.githubusercontent.com/haikieu/iOS-anti-pattern-bypass/master/ios-anti-pattern-bypass.jpg "iOS anti design pattern bypass inheritance")
