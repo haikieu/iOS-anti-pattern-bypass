@@ -1,10 +1,6 @@
 iOS anti design pattern, bypass inheritance
 =======================
 
-#####Scenario : N/A
-
-###Pros : N/A
-
 ###Cons : 
 
 + Violate traditional inheritance model
@@ -15,7 +11,7 @@ iOS anti design pattern, bypass inheritance
 
 ------------------------------
 
-###Puppet pattern idea in action
+###bypass inheritance idea
 
 [logo]: https://raw.githubusercontent.com/haikieu/iOS-anti-pattern-bypass/master/ios-anti-pattern-bypass.jpg
 ![alt iOS anti design pattern bypass inheritance](https://raw.githubusercontent.com/haikieu/iOS-anti-pattern-bypass/master/ios-anti-pattern-bypass.jpg "iOS anti design pattern bypass inheritance")
